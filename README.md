@@ -8,3 +8,8 @@ At the end of the course, you should be able to
 +	apply relevant NSX features to use cases
 +	explain NSX network virtualization components and services
 +	explain how network virtualization is utilized in an SDDC environment
+
+
+Virtual networking components
+Section 4.1 | Section 4.2 | Section 4.3 | Section 4.6 | Section 4.6.1 | Section 4.7 | Section 4.7.1
+
